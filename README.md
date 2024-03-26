@@ -1,1 +1,1 @@
-Documentation de l'application
+Documentation de l'applicationgit remote set-url origin git@github.com:ppreyer/first_app.git
